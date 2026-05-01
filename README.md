@@ -95,7 +95,27 @@ Download complete employee records in:
 
 ## 📸 Screenshots
 
-(Add screenshots here after upload)
+### 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+### 📊 Dashboard Page
+
+![Dashboard Page](screenshots/dashboard.png)
+
+---
+
+### 📈 Reports Page
+
+![Reports Page](screenshots/reports.png)
+
+---
+
+### 🗄️ MySQL Database
+
+![Database](screenshots/database.png)
 
 ---
 
