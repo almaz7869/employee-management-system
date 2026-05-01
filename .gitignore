@@ -1,0 +1,16 @@
+# frontend
+ems-frontend/node_modules/
+ems-frontend/build/
+
+# backend
+ems-backend/target/
+
+# ide
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# env
+.env
